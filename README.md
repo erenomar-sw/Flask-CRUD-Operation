@@ -30,8 +30,7 @@ Perfect as a beginner-friendly reference or starting point for learning Flask da
 │   ├── base.html       # Base layout
 │   ├── index.html      # List all records
 │   ├── create.html     # Create form
-│   ├── update.html     # Edit form
-│   └── ...             # Possibly other partials
+│   ├── update.html     # Edit form   
 ├── .gitignore
 └── LICENSE
 

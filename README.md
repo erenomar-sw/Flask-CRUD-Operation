@@ -62,30 +62,25 @@ Bashpython app.py
 # or
 flask run
 
-Usage
+## Usage
 
-Open the home page → see list of all items
+- Open the home page → see list of all items
+- Click **"Add New"** → fill the form → submit
+- Click **Edit** on any item → modify → save
+- Click **Delete** to remove an item
 
-Click "Add New" → fill the form → submit
+## Future Improvements (Ideas)
 
-Click Edit on any item → modify → save
+- Add WTForms + Flask-WTF for better form handling & CSRF protection
+- Use Bootstrap or Tailwind for nicer UI
+- Add search/filter functionality
+- Implement login & user-specific records
+- Add data validation & error handling improvements
+- Deploy to Render, Railway, Heroku, etc.
 
-Click Delete to remove an item
 
-Future Improvements (ideas)
+## License
 
-Add WTForms + Flask-WTF for better form handling & CSRF protection
-
-Use Bootstrap or Tailwind for nicer UI
-
-Add search/filter functionality
-
-Implement login & user-specific records
-
-Add data validation & error handling improvements
-
-Deploy to Render, Railway, Heroku, etc.
-
-License
 This project is licensed under the MIT License — feel free to use it for learning or your own projects.
+
 

@@ -24,16 +24,16 @@ Perfect as a beginner-friendly reference or starting point for learning Flask da
 
 ## Project Structure
   Flask-CRUD-Operation/
-  ├── app.py              # Main Flask application + routes
-  ├── models.py           # SQLAlchemy model definitions
-  ├── templates/          # HTML templates
-  │   ├── base.html       # (likely) Base layout
-  │   ├── index.html      # List all records
-  │   ├── create.html     # Create form
-  │   ├── update.html     # Edit form
-  │   └── ...             # (possibly other partials)
-  ├── .gitignore
-  └── LICENSE
+├── app.py              # Main Flask application + routes
+├── models.py           # SQLAlchemy model definitions
+├── templates/          # HTML templates
+│   ├── base.html       # Base layout
+│   ├── index.html      # List all records
+│   ├── create.html     # Create form
+│   ├── update.html     # Edit form
+│   └── ...             # Possibly other partials
+├── .gitignore
+└── LICENSE
 
 
 ## Installation & Setup

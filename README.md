@@ -46,21 +46,30 @@ cd Flask-CRUD-Operation
 ### 2. Create virtual environment (recommended)
 
 # Windows
+```
 python -m venv venv
 venv\Scripts\activate
+```
 
 # macOS / Linux
+```
 python3 -m venv venv
 source venv/bin/activate
+```
 
 ### 3. Install dependencies
+```
 pip install flask flask-sqlalchemy
+```
 
 ### 4. Run the application
+```
 Bashpython app.py
+```
 # or
+```
 flask run
-
+```
 ## Usage
 
 - Open the home page → see list of all items

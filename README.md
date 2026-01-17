@@ -23,17 +23,17 @@ Perfect as a beginner-friendly reference or starting point for learning Flask da
 - **HTML** + **Bootstrap** (optional – if used in templates)
 
 ## Project Structure
-Flask-CRUD-Operation/
-├── app.py              # Main Flask application + routes
-├── models.py           # SQLAlchemy model definitions
-├── templates/          # HTML templates
-│   ├── base.html       # (likely) Base layout
-│   ├── index.html      # List all records
-│   ├── create.html     # Create form
-│   ├── update.html     # Edit form
-│   └── ...             # (possibly other partials)
-├── .gitignore
-└── LICENSE
+  Flask-CRUD-Operation/
+  ├── app.py              # Main Flask application + routes
+  ├── models.py           # SQLAlchemy model definitions
+  ├── templates/          # HTML templates
+  │   ├── base.html       # (likely) Base layout
+  │   ├── index.html      # List all records
+  │   ├── create.html     # Create form
+  │   ├── update.html     # Edit form
+  │   └── ...             # (possibly other partials)
+  ├── .gitignore
+  └── LICENSE
 
 
 ## Installation & Setup

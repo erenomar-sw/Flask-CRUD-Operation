@@ -64,7 +64,7 @@ pip install flask flask-sqlalchemy
 
 ### 4. Run the application
 ```
-Bashpython app.py
+python app.py
 ```
 # or
 ```
